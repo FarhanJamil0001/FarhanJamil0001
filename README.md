@@ -1,28 +1,23 @@
-<div align="center">
-	<img src="https://avatars.githubusercontent.com/u/32781195?v=4" width="120" alt="Farhan Jamil Avatar" />
-  
-	# Farhan Jamil
-	[GitHub Profile](https://github.com/FarhanJamil0001)
-</div>
+[![Followers](https://img.shields.io/github/followers/FarhanJamil0001?label=Followers&style=flat-square)](https://github.com/FarhanJamil0001)
+[![Repos](https://img.shields.io/badge/Repos-19-blue?style=flat-square)](https://github.com/FarhanJamil0001?tab=repositories)
 
-## GitHub Summary
+## About
+👋 Heyo, I'm Farhan Jamil. I'm a Software Engineer at JP Morgan Chase. I work on web services and applications with a focus on TypeScript, Python, and full-stack development.
 
-- **Username:** FarhanJamil0001
-- **Public Repositories:** 13
-- **Followers:** 8
-- **Following:** 3
-- **Account Created:** October 13, 2017
-- **Last Updated:** October 4, 2025
+- 📍 Education: The University of Texas at Dallas (Computer Science)
+- 🎓 Status: Currently Studying
+- 📅 Coding Since: 2017 (joined GitHub)
 
-## MyMLH Summary
+## Featured Projects
+- � [pixel-letterbox](https://pixel-letterbox.vercel.app) — A web application built with TypeScript (TypeScript) — github.com/FarhanJamil0001/pixel-letterbox
+- 🧠 [NLPProject](https://github.com/FarhanJamil0001/NLPProject) — Natural Language Processing project showcasing ML/AI capabilities (Python) — github.com/FarhanJamil0001/NLPProject
+- 🍳 [UmaKitchen](https://github.com/FarhanJamil0001/UmaKitchen) — A TypeScript-based kitchen management system (TypeScript) — github.com/FarhanJamil0001/UmaKitchen
 
-- **Name:** Farhan Jamil
-- **Education:** Computer Science major at The University of Texas at Dallas (currently enrolled)
-- **Professional Experience:** Software Engineer at JP Morgan Chase (previous role)
-
----
-
-Feel free to connect or reach out!
+## Tech & Interests
+- 🧰 Languages: TypeScript, Python, Java, JavaScript, Assembly
+- 🔭 Focus: Full-Stack Development, Natural Language Processing, Web Applications
+- ❤️ Interests: Software Engineering, Machine Learning, Web Development
+-->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
