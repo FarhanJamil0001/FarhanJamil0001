@@ -1,24 +1,23 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/FarhanJamil0001?label=Followers&style=flat-square)](https://github.com/FarhanJamil0001)
+[![GitHub User's stars](https://img.shields.io/github/stars/FarhanJamil0001?style=flat-square)](https://github.com/FarhanJamil0001)
+[![GitHub repos](https://img.shields.io/badge/Repos-19-blue?style=flat-square)](https://github.com/FarhanJamil0001?tab=repositories)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hi, I'm Farhan Jamil. I'm a Software Engineer at JP Morgan Chase. I work on a variety of projects with a focus on TypeScript and Python development, ranging from NLP projects to web applications.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Dallas, TX (based on UT Dallas attendance)
+- 🎓 Education: The University of Texas at Dallas, BS in Computer Science (2021-2025)
+- 📅 Coding Since: 2017 (based on GitHub join date)
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 [slate-generator](https://github.com/FarhanJamil0001/slate-generator) — A TypeScript-based project focused on generation capabilities
+- 🧠 [NLPProject](https://github.com/FarhanJamil0001/NLPProject) — Natural Language Processing project implemented in Python
+- 🎨 [pixel-letterbox](https://github.com/FarhanJamil0001/pixel-letterbox) — A TypeScript project for pixel-based letterbox effects
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: TypeScript, Python, Java, Assembly, Mathematica
+- 🔭 Focus: Web Development, Natural Language Processing, Software Engineering
+- ❤️ Interests: Full-stack Development, Machine Learning, System Architecture
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
