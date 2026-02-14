@@ -1,25 +1,22 @@
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-14-blue?style=flat-square)](https://github.com/FarhanJamil0001)
 [![Followers](https://img.shields.io/github/followers/FarhanJamil0001?label=Followers&style=flat-square)](https://github.com/FarhanJamil0001)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-14-blue?style=flat-square)](https://github.com/FarhanJamil0001?tab=repositories)
 
 ## About
-👋 Heyo, I'm Farhan Jamil. I'm a developer passionate about building projects and contributing to the open-source community. I work on various web applications and development projects.
+👋 Hi, I'm **Farhan Jamil**. I'm a developer interested in building projects with a focus on Python, TypeScript, and full-stack applications.
 
-- 🔗 GitHub: [github.com/FarhanJamil0001](https://github.com/FarhanJamil0001)
-- 👥 Followers: 9 | Following: 3
-- 📅 Coding Since: 2017
-
-## Stats
-- 📊 Public Repositories: 14
-- 🔒 Private Repositories: 6
-- 💾 Gists: 1 (private)
+- 👤 GitHub: [@FarhanJamil0001](https://github.com/FarhanJamil0001)
+- 📅 Member Since: October 2017
+- 👥 Followers: [9](https://github.com/FarhanJamil0001?tab=followers)
 
 ## Featured Projects
-Check out my repositories at [github.com/FarhanJamil0001](https://github.com/FarhanJamil0001) to see what I'm working on!
+- 🎲 [NLPProject](https://github.com/FarhanJamil0001/NLPProject) — Natural Language Processing project (Python)
+- 🛠️ [slate-generator](https://github.com/FarhanJamil0001/slate-generator) — Documentation generator (TypeScript) ⭐1
+- 🤖 [hltA2](https://github.com/FarhanJamil0001/hltA2) — Natural Language Processing assignment (Python)
 
 ## Tech & Interests
-- 🧰 Languages: Python, JavaScript/TypeScript, Java
-- 🔭 Focus: Web Development, Open Source
-- ❤️ Interests: Coding, Problem Solving, Learning New Technologies
+- 🧰 Languages: TypeScript, Python, Java, Mathematica, Assembly
+- 🔭 Focus: Full-stack development, NLP, documentation tools
+- ❤️ Interests: Hackathons, open-source projects, learning new technologies
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---

@@ -1,5 +1,10 @@
 {
   "servers": {
+    "mymlh": {
+      "type": "http",
+      "url": "https://mymlh-mcp.git.ci/mcp"
+    },
+       
     "github": {
       "type": "http",
       "url": "https://api.githubcopilot.com/mcp/"
