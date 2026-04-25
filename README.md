@@ -1,22 +1,21 @@
 [![Followers](https://img.shields.io/github/followers/FarhanJamil0001?label=Followers&style=flat-square)](https://github.com/FarhanJamil0001)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-14-blue?style=flat-square)](https://github.com/FarhanJamil0001?tab=repositories)
+[![Repos](https://img.shields.io/badge/Public%20Repos-15-blue?style=flat-square)](https://github.com/FarhanJamil0001?tab=repositories)
 
 ## About
-👋 Hi, I'm **Farhan Jamil**. I'm a developer interested in building projects with a focus on Python, TypeScript, and full-stack applications.
+👋 Heyo, I'm Farhan Jamil. I'm a developer interested in full-stack development, task management systems, and NLP projects. I work on web services, Discord bots, and projects with a focus on Python, JavaScript/TypeScript, and modern web apps.
 
-- 👤 GitHub: [@FarhanJamil0001](https://github.com/FarhanJamil0001)
-- 📅 Member Since: October 2017
-- 👥 Followers: [9](https://github.com/FarhanJamil0001?tab=followers)
+- 🎓 Education: [Your University or School]
+- 📅 Coding Since: 2017
 
 ## Featured Projects
-- 🎲 [NLPProject](https://github.com/FarhanJamil0001/NLPProject) — Natural Language Processing project (Python)
-- 🛠️ [slate-generator](https://github.com/FarhanJamil0001/slate-generator) — Documentation generator (TypeScript) ⭐1
-- 🤖 [hltA2](https://github.com/FarhanJamil0001/hltA2) — Natural Language Processing assignment (Python)
+- 🛠️ [TaskForge](https://github.com/FarhanJamil0001/TaskForge) — Task management monorepo with Next.js web app, Discord bot, and Supabase backend (TypeScript)
+- 🎨 [slate-generator](https://github.com/FarhanJamil0001/slate-generator) — Documentation generator tool (TypeScript)
+- 📚 [NLPProject](https://github.com/FarhanJamil0001/NLPProject) — Natural Language Processing project (Python)
 
 ## Tech & Interests
-- 🧰 Languages: TypeScript, Python, Java, Mathematica, Assembly
-- 🔭 Focus: Full-stack development, NLP, documentation tools
-- ❤️ Interests: Hackathons, open-source projects, learning new technologies
+- 🧰 Languages: TypeScript, Python, Java, Assembly
+- 🔭 Focus: Full-stack web development, Discord bots, NLP
+- ❤️ Interests: Web applications, task management, natural language processing
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
